@@ -15,7 +15,7 @@ using namespace std;
 
  }
 
- /*This function takes an array arr and its size n as parameters. 
+ /*This function takes an array arr and its size n as parameters.
  It prints the elements of the array separated by spaces and ends with a newline.*/
 
 
